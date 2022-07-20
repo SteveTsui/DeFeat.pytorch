@@ -11,7 +11,7 @@ Knowledge distillation is a widely used paradigm for inheriting information from
 - MMDetection 2.x
 - This repo uses: `mmdet-v2.0` `mmcv-0.5.6` `cuda 10.1`
 
-### VOC Results
+### VOC Resul
 
 **Notes:**
 
